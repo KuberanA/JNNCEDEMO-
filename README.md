@@ -1,5 +1,5 @@
 # JNNCEDEMO-
 This is JNNCEDEMO repository
 <br>
-auther:Kuberan
+auther:KUSHAL
 jnncedemo@
